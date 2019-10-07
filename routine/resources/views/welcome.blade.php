@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Lets build React App with Laravel using MongoDb
+                Group Project
                 </div>
             </div>
         </div>
